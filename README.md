@@ -8,7 +8,7 @@ An accumulation of tensorflow (>= 2.0) models.
 
 ## Generative Models
 
-* [dcgan](https://nbviewer.jupyter.org/github/boathit/tf-models/blob/master/dcgan/dcgan.ipynb): Deep Convolutional Generative Adversarial Nets.
+* [dcgan](https://nbviewer.jupyter.org/github/boathit/tf-models/blob/master/dcgan.ipynb): Deep Convolutional Generative Adversarial Nets.
 
 * [cvae](https://nbviewer.jupyter.org/github/boathit/tf-models/blob/master/cvae.ipynb): Convolutional Variational Auto-Encoders.
 
